@@ -8,7 +8,7 @@
 
 </div>
 
-#Professions
+# Professions
 
 New Homebrew Cards for Professions, created using the Daggerheart Homebrew Kit and following the DPCGL license.
 
